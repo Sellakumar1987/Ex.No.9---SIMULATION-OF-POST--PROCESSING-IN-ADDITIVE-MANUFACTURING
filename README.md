@@ -46,9 +46,16 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/22002102/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119091638/f67184a0-0e07-44bf-9e79-04d5661bdaee)
+![image](https://github.com/22002102/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119091638/814e1d8f-3565-424e-be16-0063213962ef)
+![image](https://github.com/22002102/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119091638/42d9c850-c975-4cd2-9c9f-dbba70809fe6)
+![image](https://github.com/22002102/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119091638/26e1e4eb-9b75-4245-a736-beb4185c93cd)
+![image](https://github.com/22002102/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119091638/e194058c-a296-4002-9e0a-a892414f96e6)
 
-### Name:
-### Register Number:
+![image](https://github.com/22002102/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119091638/435df277-1ca5-41a5-8f58-3289f80eec40)
+
+### Name:T MOUNISH
+### Register Number:23002806
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
